@@ -1,0 +1,36 @@
+body {
+	margin: 0 auto;
+	background-color: #F4EDEA;
+}
+
+.content {
+
+}
+
+.conteiner {
+	
+}
+
+.grade {
+	display: flex;
+	justify-content: center;
+}
+.quote {
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	height: 200px;
+	text-align: center
+	min-height: 400px;
+    padding: 0 25px;
+    color: gray;
+    background-color: #F4EDEA;
+    font-size: 30px;
+}
+
+.createQuote {
+	display: flex;
+	justify-content: center;
+	padding-top: 25px;
+	color: #fff;
+}
